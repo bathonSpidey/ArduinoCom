@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "VXIc44JM2u78Uq1sMDjqzBfMsShE+HVMziMi9f3TZZOxHZOJMcTyIgH0b9B5gbd+NXMR3bqFp9tofyIO9nx6Mg==",
+  "success": true,
+  "projectFilePath": "C:\\Code\\GitHub\\ArduinoCom\\ArduinoCom\\ArduinoCom.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\batho\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\batho\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\batho\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\5.0.0-rtm.20519.4\\runtime.linux-arm.runtime.native.system.io.ports.5.0.0-rtm.20519.4.nupkg.sha512",
+    "C:\\Users\\batho\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\5.0.0-rtm.20519.4\\runtime.linux-arm64.runtime.native.system.io.ports.5.0.0-rtm.20519.4.nupkg.sha512",
+    "C:\\Users\\batho\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\5.0.0-rtm.20519.4\\runtime.linux-x64.runtime.native.system.io.ports.5.0.0-rtm.20519.4.nupkg.sha512",
+    "C:\\Users\\batho\\.nuget\\packages\\runtime.native.system.io.ports\\5.0.0\\runtime.native.system.io.ports.5.0.0.nupkg.sha512",
+    "C:\\Users\\batho\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\5.0.0-rtm.20519.4\\runtime.osx-x64.runtime.native.system.io.ports.5.0.0-rtm.20519.4.nupkg.sha512",
+    "C:\\Users\\batho\\.nuget\\packages\\system.io.ports\\5.0.0\\system.io.ports.5.0.0.nupkg.sha512",
+    "C:\\Users\\batho\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\batho\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
