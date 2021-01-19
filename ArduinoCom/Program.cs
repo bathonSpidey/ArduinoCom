@@ -13,13 +13,13 @@ namespace ArduinoCom
 			Console.WriteLine("Connected...");
 			port.DiscardInBuffer();
 			port.DiscardOutBuffer();
-			var bytes = new byte[] { 1, 2, 3, 4, 5, 6 };
-			var secondBytes=new byte[] { 6, 5, 4, 3, 2, 1 };
-			port.Write(bytes,0,6);
+			var bytes = new byte[] { 1 };
+			var secondBytes=new byte[] { 2 };
+			port.Write(bytes,0,1);
 			Console.WriteLine("Led Blink up!");
-			port.Write(secondBytes,0,6);
+			port.Write(secondBytes,0,1);
 			Console.WriteLine("Led Blink Down");
-			port.Write(bytes,0,6);
+			port.Write(bytes,0,1);
 			Console.WriteLine("Led Blink up!");
 			port.Close();
 		}
